@@ -3,3 +3,9 @@ https://github.com/openhwp/openhwp
 
 https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1066322&exception_mode=recommend&page=1.
 - codex harness
+
+https://github.com/lidge-jun/ima2-gen
+- gpt 짤생성기
+
+https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1130474&exception_mode=recommend&page=1
+- codex 짤생성기
