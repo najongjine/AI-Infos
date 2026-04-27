@@ -23,3 +23,7 @@ build nvidia com
 GLM-5.1
 MiniMax 2.7
 이정도 무료임 제한없이
+
+
+https://embedding.nerdvana.kr/guide
+- https://embedding.nerdvana.kr/guide
