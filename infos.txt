@@ -27,3 +27,7 @@ MiniMax 2.7
 
 https://embedding.nerdvana.kr/guide
 - https://embedding.nerdvana.kr/guide
+
+
+https://www.youtube.com/watch?v=5tO6q9ZOr_U
+- 스탠퍼드 LLM 작동 원리 마스터클래스 (한국어 자막)
