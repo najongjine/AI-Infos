@@ -31,3 +31,6 @@ https://embedding.nerdvana.kr/guide
 
 https://www.youtube.com/watch?v=5tO6q9ZOr_U
 - 스탠퍼드 LLM 작동 원리 마스터클래스 (한국어 자막)
+
+https://github.com/0x0funky/agent-sprite-forge
+- 코덱스로 2D 캐릭터 스프라이트 & GIF 만들기
