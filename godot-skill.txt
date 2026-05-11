@@ -1,0 +1,25 @@
+cd $env:USERPROFILE
+
+git clone https://github.com/haxqer/godot-skill.git
+
+Copy-Item -Recurse -Force ".\godot-skill\skill\godot" "$env:USERPROFILE\.codex\skills\godot"
+
+
+dir "$env:USERPROFILE\.codex\skills"
+
+
+
+그다음 실제 사용
+
+설치는 끝났고, 사용할 때만 Godot 프로젝트 폴더로 이동합니다.
+
+cd "C:\Users\najon\Documents\GodotProjects\내게임폴더"
+codex
+
+Codex 안에서:
+
+Use $godot to inspect this Godot project and summarize the current scenes, scripts, and project structure.
+
+또는:
+
+Use $godot to create a simple test scene with a Player node, Camera2D, and basic movement script.
