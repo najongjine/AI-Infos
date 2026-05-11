@@ -1,0 +1,19 @@
+npm i -g @openai/codex
+
+cd $env:USERPROFILE\Desktop
+
+git clone https://github.com/najongjine/agent-sprite-forge.git
+
+cd .\agent-sprite-forge
+
+python -m pip install -r .\requirements.txt
+
+New-Item -ItemType Directory -Force -Path "$env:USERPROFILE\.codex\skills" | Out-Null
+
+Copy-Item -Recurse -Force ".\skills\*" "$env:USERPROFILE\.codex\skills\"
+
+codex
+
+
+
+dir "$env:USERPROFILE\.codex\skills"
