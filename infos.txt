@@ -34,3 +34,6 @@ https://www.youtube.com/watch?v=5tO6q9ZOr_U
 
 https://github.com/0x0funky/agent-sprite-forge
 - 코덱스로 2D 캐릭터 스프라이트 & GIF 만들기
+
+https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1296953&page=1
+-  GPT 이미지 생성할 때 검열 걸릴 경우 꿀팁
